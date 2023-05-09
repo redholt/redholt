@@ -9,7 +9,7 @@ I also spend my free time tinkering with my Synology Box at home spending hours 
 
 ## Projects
 
-Here is a link to some of my [projects] (https://github.com/redholt/portfolio).
+Here is a link to some of my [projects.](#portfolio)
 
 ## Stack
 
