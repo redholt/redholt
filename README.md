@@ -4,6 +4,8 @@ Welcome to my GitHub
 
 I am a former procurement specialist now self taught Data Analyst and Engineer currently working in local government within the UK. Some of my projects and links are below, as well as some information on my skills and the tools that I use. 
 
+I also spend my free time tinkering with my Synology Box at home spending hours implementing systems to save myself seconds in real life!
+
 
 ## Projects
 
@@ -13,9 +15,10 @@ Here is a link to some of my projects.
 
 | Area | Tools |
 | --- | --- |
-| Languages | MSSQL, PostgreSQL, DAX / (M), Python |
-| BI | PowerBI, Tableau |
-| Wrangling | PowerQuery, DAX |
+| **Languages** | MSSQL // PostgreSQL // DAX + M // Python |
+| **BI** | PowerBI // Tableau |
+| **Wrangling** | PowerQuery // DAX //  BigQuery |
+| **Misc** | Windows // Linux // Docker (and Compose) // Synology (Basically Linux) |
 
 
 <!--
