@@ -18,7 +18,7 @@ Here is a link to some of my [projects.](https://github.com/redholt/portfolio)
 | **Languages** | MSSQL // PostgreSQL // DAX + M // Python |
 | **BI** | PowerBI // Tableau |
 | **Wrangling** | PowerQuery // DAX //  BigQuery |
-| **Misc** | Windows // Linux // Docker (and Compose) // Synology (Basically Linux) |
+| **Misc** | Windows // Linux // bash // Docker (and Compose) // Synology (Basically Linux) |
 
 
 <!--
